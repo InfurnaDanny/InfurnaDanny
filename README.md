@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @InfurnaDanny
 - 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning Angular & Rxjs
+- 🌱 I’m currently learning NgRX
 - 📫 How to reach me: https://www.linkedin.com/in/francesco-danny-infurna-204b4b24
